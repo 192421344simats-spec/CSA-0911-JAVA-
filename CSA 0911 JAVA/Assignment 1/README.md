@@ -1,3 +1,5 @@
+NAME ; DEVA G
+REG NO ; 192421344
 # Campus Smart-Parking System (Java)
 
 A console-based Java 17 project implementing the CO1 assignment scenario.
