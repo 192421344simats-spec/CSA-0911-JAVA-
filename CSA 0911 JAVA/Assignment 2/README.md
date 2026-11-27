@@ -1,3 +1,6 @@
+NAME ; DEVA G
+REG NO ; 192421344
+
 # Programming in Java – Assignment 2 (CO2)
 
 Java 17+ reference implementation for Q1–Q7 of the uploaded assignment.
