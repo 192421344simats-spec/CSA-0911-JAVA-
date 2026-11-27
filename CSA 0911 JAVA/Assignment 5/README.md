@@ -1,7 +1,7 @@
 # Java Assignment 5 – CO5: Data Persistence Engineering
 
-**Student:** Sahil J.S  
-**Register number:** 192525200  
+**Student:** Deva G
+**Register number:** 192421344
 **Course code:** CSA0911  
 **Course:** Programming in Java
 
